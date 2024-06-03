@@ -136,7 +136,7 @@ with torch.no_grad():
 Para rodar este projeto no Google Colab, você não precisa instalar nada localmente. Basta acessar o [Google Colab](https://colab.google/), criar um novo notebook e colar o código fornecido.
 
 ### Demonstração
-[Link para o vídeo](https://drive.google.com/file/d/1eCFuJTuAVi3url3CPVegMPEMmHmglfd_/view?usp=drivesdk)
+[Link para o vídeo](https://drive.google.com/file/d/1n-ke5gn8w6G-LMpcT5ldWbv-nkjcA0e0/view?usp=sharing)
 
 ### Link para o Google Colab
 [Link para o Google Colab](https://colab.research.google.com/drive/1rEneYO4GpAg8zDDHs38nLR2PGbKrK_kV?usp=sharing)
