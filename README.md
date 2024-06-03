@@ -89,7 +89,7 @@ for x in X:
 Para rodar este projeto no Google Colab, você não precisa instalar nada localmente. Basta acessar o [Google Colab](https://colab.google/), criar um novo notebook e colar o código fornecido.
 
 ### Demonstração
-[Link para o vídeo]()
+[Link para o vídeo](https://drive.google.com/file/d/1eCFuJTuAVi3url3CPVegMPEMmHmglfd_/view?usp=drivesdk)
 
 ### Link para o Google Colab
 [Link para o Google Colab](https://colab.research.google.com/drive/1rEneYO4GpAg8zDDHs38nLR2PGbKrK_kV?usp=sharing)
